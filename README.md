@@ -1,4 +1,4 @@
-# Analyzing Review Reply Alignment Using WangchanBERTa for Thai Food Delivery Applications
+# Evaluating the Effectiveness of Restaurant Responses to Customer Reviews Using Text Similarity and WangchanBERTa
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xl9gJmKZ4Ob3HqBqkbi41SUj52RXDhuZ?usp=sharing)
 
