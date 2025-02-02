@@ -1,6 +1,6 @@
 # Analyzing Review Reply Alignment Using WangchanBERTa for Thai Food Delivery Applications
 
-[![Open In Colab](https://colab.research.google.com/drive/1Xl9gJmKZ4Ob3HqBqkbi41SUj52RXDhuZ?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xl9gJmKZ4Ob3HqBqkbi41SUj52RXDhuZ?usp=sharing)
 
 
 ## 1. บทนำ
